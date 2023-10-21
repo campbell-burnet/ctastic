@@ -7,7 +7,7 @@ Having a long background in both APL and SQL, a healthy interest in AI, and an a
 
 ### Features
 
-+ Array/Vector-Oriented (N-Dimansional -APL-like)
++ Array/Vector-Oriented (N-Dimensional -APL-like)
 + Relational (SQL-Like)
 
 ### Categories
